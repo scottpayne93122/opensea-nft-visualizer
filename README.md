@@ -1,4 +1,5 @@
 # Opensea NFT Visualizer
+
 Input any address and visualize their collection of NFTs
 
 ## Technology Stack & Dependencies
@@ -7,15 +8,23 @@ Input any address and visualize their collection of NFTs
 - Javascript (Game interaction)
 - [NodeJS](https://nodejs.org/en/) To create hardhat project and install dependencis using npm
 
-
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
+
 ```
 npm install
 ```
 
 ### 3. Run app
+
 ```
 npm start
+```
+
+### 4. Basic Outline
+
+```
+
+public/mindMapImage.png
 ```
