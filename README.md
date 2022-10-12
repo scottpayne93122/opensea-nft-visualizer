@@ -24,7 +24,4 @@ npm start
 
 ### 4. Basic Outline
 
-```
-
-public/mindMapImage.png
-```
+![mind map image](public/mindMapImage.png)
